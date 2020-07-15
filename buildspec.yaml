@@ -19,6 +19,7 @@ phases:
       - echo Build completed on `date` !!!
 artifacts:
   files:
+    - '**/*'
     - target/HelloWorld-1.0.jar
     - template.yaml
     - outputtemplate.yaml
