@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5dadebf7-61dd-4f4a-b57a-cea34404266c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.aws-sam/build/HelloWorldFunction/helloworld/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.aws-sam/build/HelloWorldFunction/lib/aws-lambda-java-core-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.aws-sam/build/HelloWorldFunction/lib/aws-lambda-java-events-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.aws-sam/build/HelloWorldFunction/lib/joda-time-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.aws-sam/build/template.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/helloworld/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/helloworld/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +17,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1eiS48f79Rfipkw2dw3hPRbo6Uj" />
   <component name="ProjectLevelVcsManager">
