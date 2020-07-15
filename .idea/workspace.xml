@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5dadebf7-61dd-4f4a-b57a-cea34404266c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/template.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +22,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
@@ -79,17 +84,36 @@
       <option name="presentableId" value="Default" />
       <updated>1594802726003</updated>
       <workItem from="1594802727354" duration="97000" />
-      <workItem from="1594803290170" duration="1055000" />
+      <workItem from="1594803290170" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="519" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594802767153">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="519" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1594802767153" />
+    <state width="1671" height="397" key="GridCell.Tab.0.bottom" timestamp="1594804783138">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1671" height="397" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1594804783138" />
+    <state width="1671" height="397" key="GridCell.Tab.0.center" timestamp="1594804783136">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1671" height="397" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1594804783136" />
+    <state width="1671" height="397" key="GridCell.Tab.0.left" timestamp="1594804783136">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1671" height="397" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1594804783136" />
+    <state width="1671" height="397" key="GridCell.Tab.0.right" timestamp="1594804783137">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1671" height="397" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1594804783137" />
   </component>
 </project>
