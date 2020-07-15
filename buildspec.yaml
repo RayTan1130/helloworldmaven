@@ -13,8 +13,7 @@ phases:
       - export BUCKET=codepipeline-us-west-1-720803681094
       - mvn package shade:shade
       - unzip target/HelloWorld-1.0.jar
-      - aws cloudformation package --s3-bucket $BUCKET --output-template-file outputtemplate.yaml
-#      - aws cloudformation package --template-file template.yaml --s3-bucket $BUCKET --output-template-file outputtemplate.yaml
+      - aws cloudformation package --template-file template.yaml --s3-bucket $BUCKET --output-template-file outputtemplate.yaml
   post_build:
     commands:
       - echo Build completed on `date` !!!
@@ -22,5 +21,5 @@ artifacts:
   files:
     - '**/*'
     - target/HelloWorld-1.0.jar
-#    - template.yaml
+    - template.yaml
     - outputtemplate.yaml
