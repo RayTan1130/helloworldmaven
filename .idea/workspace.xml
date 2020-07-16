@@ -39,7 +39,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -98,7 +98,7 @@
       <workItem from="1594810771816" duration="242000" />
       <workItem from="1594831211866" duration="351000" />
       <workItem from="1594832467828" duration="3601000" />
-      <workItem from="1594850701958" duration="475000" />
+      <workItem from="1594850701958" duration="3858000" />
     </task>
     <servers />
   </component>
@@ -109,10 +109,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="382" y="112" key="#Project_Structure" timestamp="1594867565109">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="382" y="112" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1594867565109" />
     <state x="519" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594802767153">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="519" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1594802767153" />
+    <state x="608" y="181" key="DetectedRootsChooserDialog" timestamp="1594868594031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="608" y="181" key="DetectedRootsChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594868594031" />
     <state width="1657" height="342" key="GridCell.Tab.0.bottom" timestamp="1594824866256">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
@@ -133,9 +141,20 @@
     </state>
     <state width="1610" height="92" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594810700844" />
     <state width="1657" height="342" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1594824866256" />
-    <state x="320" y="23" width="1280" height="1002" key="SettingsEditor" timestamp="1594811016718">
+    <state x="263" y="27" width="1280" height="1002" key="SettingsEditor" timestamp="1594868596545">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="320" y="23" width="1280" height="1002" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594811016718" />
+    <state x="263" y="27" width="1280" height="1002" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594868596545" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HelloWorldFunction/src/main/java/helloworld/App.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
